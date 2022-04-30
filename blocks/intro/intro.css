@@ -1,0 +1,7 @@
+.intro {
+  width: calc(100% - 296px);
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  padding-top: 92px;
+}

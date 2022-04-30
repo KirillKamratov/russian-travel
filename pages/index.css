@@ -5,6 +5,7 @@
 @import url('../blocks/page/page.css');
 
 @import url('../blocks/wrapper/wrapper.css');
+@import url('../blocks/list/list.css');
 
 @import url('../blocks/header/header.css');
 @import url('../blocks/header/__logo/header__logo.css');
@@ -18,3 +19,11 @@
 @import url('../blocks/lead/__picture/lead__picture.css');
 @import url('../blocks/lead/__image/lead__image.css');
 @import url('../blocks/lead/__caption/lead__caption.css');
+
+@import url('../blocks/intro/intro.css');
+@import url('../blocks/intro/__title/intro__title.css');
+@import url('../blocks/intro/__text/intro__text.css');
+@import url('../blocks/intro/__list-paragraph/intro__list-paragraph.css');
+@import url('../blocks/intro/__list-digits/intro__list-digits.css');
+
+
