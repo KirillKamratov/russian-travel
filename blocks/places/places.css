@@ -1,0 +1,7 @@
+.places {
+  padding-top: 92px;
+  width: calc(100% - 296px);
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+}
