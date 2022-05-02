@@ -26,4 +26,6 @@
 @import url('../blocks/intro/__list-paragraph/intro__list-paragraph.css');
 @import url('../blocks/intro/__list-digits/intro__list-digits.css');
 
-
+@import url('../blocks/photo-grid/photo-grid.css');
+@import url('../blocks/photo-grid/__list/photo-grid__list.css');
+@import url('../blocks/photo-grid/__photo/photo-grid__photo.css');
