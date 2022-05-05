@@ -6,3 +6,24 @@
   padding-top: 56px;
   margin-right: 0;
 }
+
+
+@media screen and (max-width: 1024px) {
+  .lead {
+    width: calc(100% - 96px);
+    padding-top: 48px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead {
+    width: calc(100% - 48px);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead {
+    width: calc(100% - 4px);
+    max-width: 320px;
+  }
+}
