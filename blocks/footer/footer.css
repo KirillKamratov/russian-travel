@@ -6,7 +6,7 @@
   justify-content: space-between;
 }
 
-@media screen and (max-width: 1279px) and (min-width: 1023px) {
+@media screen and (max-width: 1279px) and (min-width: 1024px) {
   .footer {
     padding-top: 88px;
   }
