@@ -16,6 +16,7 @@
   .footer {
     width: calc(100% - 48px);
     padding-top: 88px;
+    max-width: 928px;
   }
 }
 
