@@ -11,6 +11,7 @@
   position: relative;
   flex-direction: column;
   text-decoration: none;
+  background-position: center;
 }
 
 .cover__container::before {
